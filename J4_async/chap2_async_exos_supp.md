@@ -71,7 +71,3 @@ Ecrivez un script qui retourne toutes les 500ms les nombres successifs de la sui
 ```
 
 Essayez maintenant d'encapsuler votre code dans une Promesse, que constatez-vous ?
-
-## 04 Exercice algorithmique (**)
-
-Soit la matrice de valeurs munériques dans le fichier data/matrix.json. Certaine(s) valeur(s) sur certaine(s) ligne(s) de cette matrice sont manquantes (notées None). Récupérez ces données et complétez les données manquantes en les remplaçant par la moyenne des valeurs de la ligne.
